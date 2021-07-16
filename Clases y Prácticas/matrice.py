@@ -1,0 +1,2 @@
+listaIngresos = []
+print (listaIngresos)
