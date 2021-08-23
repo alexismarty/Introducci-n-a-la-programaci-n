@@ -1,7 +1,7 @@
 #LIBRERIAS
 import requests
 import random
-
+import pandas as pd
 
 #DEFINICIONES
 URL_API_CLIMA ="https://api.openweathermap.org/data/2.5/find?q=rafaela&mode=json&units=metric&lang=sp&APPID=bbbe84df6ab458740a22a2e0a1eb7663"
